@@ -23,7 +23,7 @@ repository               : "alexknigge/alexknigge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPEG"
+  avatar           : "profile.png"
   name             : "Alex"
   pronouns         : "she/her"  
   bio              : "High-Performance Computing Enthusiast"
